@@ -1,0 +1,1 @@
+gcc SistemaSolar.c -o solar -lGL -lGLU -lglut -lSOIL -lSDL -lSDLmain -lSDL_image -lSDL_mixer -lm
