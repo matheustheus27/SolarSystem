@@ -19,7 +19,7 @@ Bibliotecas Utilizadas:
 		sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev 
 	SOIL: 
 		sudo apt-get install libsoil-dev
-    	Freeglut: 
+    Freeglut: 
 		sudo apt-get install freeglut3-dev
 
 
