@@ -4,12 +4,13 @@ Projeto de TP2 para Computação Gráfica - Sistema Solar
 	Discentes: Filipe Bicalho, Maria Eduarda, Matheus Thiago e Thiago Freitas
 
 Comandos:
-    Mouse - Movimenta a perspectiva da câmera
-    Tecla V - Ativa/Desativa o rastro de orbita
-    Tecla F - Ativa/Desativa a fonte de luz
-    Tecla E - Aumenta/Diminui o tamanho dos planetas
-    Teclas 1 e 2 - Muda o modo de câmera (1 - Modo Livre | 2 Modo Fixo)
-    Teclas W,S,A e D - Movimenta a câmera no Modo Livre
+
+    	Mouse - Movimenta a perspectiva da câmera
+    	Tecla V - Ativa/Desativa o rastro de orbita
+    	Tecla F - Ativa/Desativa a fonte de luz
+    	Tecla E - Aumenta/Diminui o tamanho dos planetas
+    	Teclas 1 e 2 - Muda o modo de câmera (1 - Modo Livre | 2 Modo Fixo)
+    	Teclas W,S,A e D - Movimenta a câmera no Modo Livre
 
 
 Bibliotecas Utilizadas:
@@ -18,7 +19,7 @@ Bibliotecas Utilizadas:
 		sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev 
 	SOIL: 
 		sudo apt-get install libsoil-dev
-    Freeglut: 
+    	Freeglut: 
 		sudo apt-get install freeglut3-dev
 
 
@@ -48,4 +49,4 @@ Recursos Implementados:
 
 Video de Demonstração:
 
-    https://youtu.be/0CxvImeWSNA
+    	https://youtu.be/0CxvImeWSNA
