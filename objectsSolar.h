@@ -3,6 +3,7 @@ typedef struct{
 	float Translacao;
 	float Rotacao;
 	int Faces;
+	int TamanhoTranslacao;
 	GLuint Texture;
 	bool Estado;
 }Corpo;
@@ -48,14 +49,19 @@ EixoFLOAT luzBranca;
 
  
 //Variaveis de Controle
-int horizonteEventos = 10;//Espaço Visivel
+int horizonteEventos = 1;//Espaço Visivel
 EixoINT cursor;
 EixoINT mouse;
 Janela janela;
+bool podeBrilhar = true;
+bool podeOrbitar = false;
 
 //Variaveis da Camera
 int modoCamera = 1;
 float anguloCameraA = 90;
 float anguloCameraB = 0;
 EixoFLOAT camera;
+
+//Variaveis de Musica
+Mix_Chunk *startingOdyssey;
 
